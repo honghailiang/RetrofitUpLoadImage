@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RetrofitUpLoadImage</string>
+    <string name="upLoad_image">上传图片：</string>
+    <string name="desc_image">图片描述：</string>
+    <string name="desc_imageE">请输入图片描述信息</string>
+    <string name="upLoad">提交</string>
 </resources>
